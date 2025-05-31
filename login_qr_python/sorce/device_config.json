@@ -1,0 +1,14 @@
+{
+  "eyoyo": {
+    "port": "COM3",
+    "action": "entry"
+  },
+  "reader1": {
+    "port": "COM5",
+    "action": "reentry"
+  },
+  "reader2": {
+    "port": "COM6",
+    "action": "exit"
+  }
+}
